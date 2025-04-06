@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fherbold
 - 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning life.
-- 💞️ I’m looking to collaborate on sequencing code creation.
+- 💞️ I’m looking to collaborate on creating sequencing code/pipelines.
 - 📫 How to reach me faith.herbold@canterbury.ac.nz
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a history buff.
